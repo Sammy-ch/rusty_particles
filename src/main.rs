@@ -1,5 +1,4 @@
 use graphics::math::{Vec2d, add, mul_scalar};
-use piston_window::event_id::RENDER;
 use piston_window::*;
 use rand::prelude::*;
 use std::alloc::{GlobalAlloc, Layout, System};
